@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kariukisamuel
 - 👀 I’m interested in Fullstack & Devops Technologies
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Cross Platform apps, Single Page Apllication 
-- 📫 How to reach me ksmacharia@outlook.com
+- 💞️ I’m looking to collaborate on React, NodeJs, Go & Laravel Projects
+- 📫 How to reach me https://dev.to/bazeng
 
 <!---
 kariukisamuel/kariukisamuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
